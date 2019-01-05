@@ -1,8 +1,8 @@
-# Gitによる複数人でのバージョン管理をSourceTreeを使って体験してみる
+# Version Management by Git and SourceTree
 
 <!-- TOC -->
 
-- [Gitによる複数人でのバージョン管理をSourceTreeを使って体験してみる](#gitによる複数人でのバージョン管理をsourcetreeを使って体験してみる)
+- [Version Management by Git and SourceTree](#version-management-by-git-and-sourcetree)
 - [はじめに](#はじめに)
 - [前提条件](#前提条件)
 - [作業対象とするGitHubリポジトリ](#作業対象とするgithubリポジトリ)
