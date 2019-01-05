@@ -1,9 +1,8 @@
-# GitWithSourcetree
-Practice for using Git with Sourcetree.  
+# Gitによる複数人でのバージョン管理をSourceTreeを使って体験してみる
 
 <!-- TOC -->
 
-- [GitWithSourcetree](#gitwithsourcetree)
+- [Gitによる複数人でのバージョン管理をSourceTreeを使って体験してみる](#gitによる複数人でのバージョン管理をsourcetreeを使って体験してみる)
 - [はじめに](#はじめに)
 - [前提条件](#前提条件)
 - [作業対象とするGitHubリポジトリ](#作業対象とするgithubリポジトリ)
