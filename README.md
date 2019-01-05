@@ -1,9 +1,8 @@
-# GitWithSourcetree
-Practice for using Git with Sourcetree.  
+# Version Management by Git and SourceTree
 
 <!-- TOC -->
 
-- [GitWithSourcetree](#gitwithsourcetree)
+- [Version Management by Git and SourceTree](#version-management-by-git-and-sourcetree)
 - [はじめに](#はじめに)
 - [前提条件](#前提条件)
 - [作業対象とするGitHubリポジトリ](#作業対象とするgithubリポジトリ)
